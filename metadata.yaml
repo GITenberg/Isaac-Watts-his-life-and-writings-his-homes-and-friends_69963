@@ -1,11 +1,16 @@
 _repo: Isaac-Watts-his-life-and-writings-his-homes-and-friends_69963
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69963-h/images/cover.jpg
 creator:
   author:
     agent_name: Hood, E. Paxton
     gutenberg_agent_id: '55518'
     url: http://www.gutenberg.org/2009/agents/55518
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69963#Isaac-Watts-his-life-and-writings-his-homes-and-friends
 gutenberg_issued: '2023-02-05'
 identifiers:
   gutenberg: '69963'
